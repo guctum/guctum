@@ -2,7 +2,7 @@
 
 I'm Greg, I'm a support engineer working to become a DevOps Engineer. I enjoy working with new technologies, building cloud infrastructure, and deploying personal projects on the cloud.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guctum)](https://github.com/anuraghazra/github-readme-stats)
+[![guctum's GitHub stats](https://github-readme-stats.vercel.app/api?username=guctum)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
