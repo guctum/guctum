@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Greg, I'm a support engineer working to become a DevOps Engineer. I enjoy working with new technologies, building cloud infrastructure, and deploying personal projects on the cloud.
+I'm Greg, I'm a support engineer with a background in software development working to become a DevOps Engineer. I enjoy working with new technologies, building cloud infrastructure, and learning to deploy projects on the cloud. I currently work as a support engineer for a major technology company, and am enjoying the opportunities to learn as much as possible and refine my skills.
 
 [![guctum's GitHub stats](https://github-readme-stats.vercel.app/api?username=guctum)](https://github.com/anuraghazra/github-readme-stats)
 
